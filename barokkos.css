@@ -15,10 +15,10 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 60px;
     color: yellow;
-    -moz-text-fill-color: black;
- -webkit-text-fill-color:black ;
-    -moz-text-stroke-color: yellow;
- -webkit-text-stroke-color: yellow;
+    -moz-text-fill-color: white;
+ -webkit-text-fill-color:white ;
+    -moz-text-stroke-color: black;
+ -webkit-text-stroke-color: black;
     -moz-text-stroke-width: 1px;  
  -webkit-text-stroke-width: 1px;
     
@@ -42,8 +42,8 @@
 }
 .hpal_logo {
    border: 6px ridge yellow;
-   border-radius: 25px;
-   max-width: 15%;
+   border-radius: 5px;
+   max-width: 20%;
    height: auto;
 }
 
@@ -78,6 +78,21 @@
 .tonkok{
    max-width: 45%;
    height: auto;
+}
+.info{
+   max-width: 3%;
+   height: auto;
+   border-radius: 40px;
+}
+.info:hover{
+   cursor: pointer;
+   filter: invert(100%);
+}
+.gomb{
+   transition: transform  0.3s;
+}
+.gomb:hover{
+   transform: scale(1.2);
 }
 
 
