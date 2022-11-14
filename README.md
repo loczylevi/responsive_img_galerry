@@ -11,3 +11,7 @@ responsive html, boostrap
 
 https://www.youtube.com/watch?v=EDLdxzG-i5g
 
+
+important link:
+
+https://www.w3schools.com/howto/howto_css_modal_images.asp
