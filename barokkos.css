@@ -1,14 +1,20 @@
 .kontener{
     border: 2px solid red;
-    border-top: 10px solid rgb(175, 0, 0);
-    background-color: grey;
+    border-top: 10px solid rgb(123, 0, 0);
+    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+    /*background-image: linear-gradient(to bottom right, red, grey);*/
+    background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));
     border-radius: 25px;
 }
 .kontener3{
    border: 2px solid white;
    border-top: 10px solid white;
-   background-color: grey;
-   border-radius: 25px;             /*barokkos */
+   /*background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(0,65,0,1));*/
+   /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(0,65,0,1));*/
+   background-image: linear-gradient(to bottom right, rgb(255, 255, 255), rgba(107,107,107,0));
+   color: black;
+   
+   border-radius: 25px;
 }
 .udvozollek{
     text-align: center;
@@ -28,7 +34,8 @@
     font-family: 'Times New Roman', Times, serif;
  border: 2px solid green;
  border-top: 10px solid darkgreen;
- background-color: grey;
+ /*background-image: linear-gradient(to bottom right, rgb(134, 0, 0), grey);*/
+ background-image: linear-gradient(to top left, rgba(255,0,0,0), rgba(0,65,0,1));
     border-radius: 25px;
 }
 .szoveg{
@@ -186,3 +193,6 @@
    }
  }
  
+
+
+
