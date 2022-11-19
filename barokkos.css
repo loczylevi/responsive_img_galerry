@@ -1,7 +1,7 @@
 .kontener{
     border: 2px solid red;
     border-top: 10px solid rgb(123, 0, 0);
-    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1));*/
+    /*background-image: linear-gradient(to bottom right, rgba(255,0,0,0), rgba(255,0,0,1)); */
     /*background-image: linear-gradient(to bottom right, red, grey);*/
     background-image: linear-gradient(to bottom right, rgba(123,0,0,1), rgba(107,107,107,0));
     border-radius: 25px;
