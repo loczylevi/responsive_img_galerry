@@ -1,5 +1,10 @@
 # responsive_img_galerry
 
+responsive img gallery project website link:
+
+https://loczylevi.github.io/responsive_img_galerry/
+
+
 javascript sauce: 
 
 https://stackoverflow.com/questions/47798971/several-modal-images-on-page
